@@ -1,0 +1,19 @@
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\bin\Debug\triangleTrying.exe
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\bin\Debug\triangleTrying.pdb
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.Form1.resources
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.exe
+c:\users\onur\documents\visual studio 2010\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.pdb
+G:\chemnProje\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.exe
+G:\chemnProje\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.pdb
+G:\chemnProje\Projects\triangleTrying\triangleTrying\bin\Debug\triangleTrying.exe
+G:\chemnProje\Projects\triangleTrying\triangleTrying\bin\Debug\triangleTrying.pdb
+G:\chemnProje\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.csprojResolveAssemblyReference.cache
+G:\chemnProje\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.Form1.resources
+G:\chemnProje\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.Properties.Resources.resources
+G:\chemnProje\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.csproj.GenerateResource.Cache
+F:\chemnProje\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.exe
+F:\chemnProje\Projects\triangleTrying\triangleTrying\obj\x86\Debug\triangleTrying.pdb
